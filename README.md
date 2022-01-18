@@ -1,7 +1,7 @@
 # Image augmentation with AugLy
-Repository with Google Colab Notebook using AugLy for image augmentation.
-This notebook contains a set of selected functions used to generate more data for my thesis project. The purpose of the notebook is to give the user an idea of how to use the AugLy library and how to interact with Google Drive to store the images to augmentate. 
+This repository contains a Jupyter Notebook that uses AugLy for image augmentation. The implementation was using Google Colab, which allows us to use Google Drive to store data and save results.
+The notebook is organized in several sections that use some AugLy functions to generate images by Data augmentation. 
+The purpose of the notebook is give the user an insight about the AugLy library and possible implementations. Also, has the intention to facilitate the process of organazing data and generating results. 
+For more information about AugLy, please visit the [AugLy repository](https://github.com/facebookresearch/AugLy).
 
-For more information about AugLy library, please visit the [AugLy repository](https://github.com/facebookresearch/AugLy).
-
-This notebook has been made with only research and academic pourpuses. 
+This notebook has been made with research and academic pourpuses only. 
